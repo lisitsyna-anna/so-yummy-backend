@@ -17,8 +17,8 @@ management. It provides the necessary server-side functionality to support the f
 ## Swagger Documentation
 
 For detailed API documentation, you can visit
-[the Swagger UI documentation](https://so-yummy-98ev.onrender.com/api-docs/)provided by the backend.
-It provides an interactive interface to explore and test the available API endpoints.
+[the Swagger UI documentation](https://so-yummy-98ev.onrender.com/api-docs/) provided by the
+backend. It provides an interactive interface to explore and test the available API endpoints.
 
 ## Installation
 
